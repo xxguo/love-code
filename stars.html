@@ -3,7 +3,7 @@
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>星空背景</title>
+    <title>郭星&&岳红</title>
 </head>
 
 <body>
@@ -13,7 +13,9 @@
 <div>
     <canvas id="canvas"></canvas>
     <canvas id="snow"></canvas>
-
+    <div class="center-div">
+        <p class="center-text">郭星&岳红</p>
+    </div>
     <div class="am-g" style="position: fixed; bottom: 0px;">
         <div class="am-u-sm-12">
             <div style="z-index: 9999" id="player" class="aplayer">
@@ -29,7 +31,20 @@
         height: 100%;
         z-index: -1;
     }
+
+    .center-text {
+        text-align: center;
+        font-weight: bold; /* 设置为粗体 */
+        color: red; /* 设置为红色 */
+    }
+    .center-div {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
 </style>
+
 <script type="text/javascript">
     var canvas = document.getElementById('canvas'),
         ctx = canvas.getContext('2d'),
