@@ -12,7 +12,7 @@
 
 |   文件   |   网页效果   | 说明  |
 | ---- | ---- |---- |
-|   love.html   |   [http://heweilai.com/love-code/love.html](http://heweilai.com/love-code/love.html)   | 爱心代码初版 |
+|   love.html   |   [http://xxguo.github.io/love-code/love.html](http://xxguo.github.io/love-code/love.html)   | 爱心代码初版 |
 |   love-add.html   |   [http://heweilai.com/love-code/love-add.html](http://heweilai.com/love-code/love-add.html)   | 在爱心中增加了文字 |
 |   love2.html   |   [http://heweilai.com/love-code/love2.html](http://heweilai.com/love-code/love2.html)   |  点击屏幕爱心飞屏效果  |
 | love-add2.html | [http://heweilai.com/love-code/love-add2.html](http://heweilai.com/love-code/love-add2.html) | 添加背景图片 |
